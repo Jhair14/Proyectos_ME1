@@ -4,31 +4,31 @@ Proyecto correspondientes al Momento Evaluativo #1 - Jhair Anderson Aguilar Pala
 
 Tarea 1 Ensayos de Websim.ai, Prompt y Devin AI:
 
--Websim.ai: https://drive.google.com/drive/folders/1Uz5F7AlX3RY5OXoxtBLngBaAIAJU85fA?usp=sharing
+-Websim.ai: https://drive.google.com/drive/folders/197mwy-p2Twtn7mio_9OmVoiUZZqhxGuY?usp=drive_link
 
--Prompt: https://drive.google.com/drive/folders/1hRBDvAfSJdOCJsum5ZjL57fBuVw10LuX?usp=drive_link
+-Prompt: https://drive.google.com/drive/folders/1TLJE4e_Rfwnw2Rk4POfI7zqO7RNoBW6D?usp=drive_link
 
--Devin AI: https://drive.google.com/drive/folders/1QTmV4xUKpivkBo52IKhbBdY07LoLwr-s?usp=drive_link
+-Devin AI: https://drive.google.com/drive/folders/19XRp_OO_iWSh4rrPQKEdoFy-vvAqJvvm?usp=drive_link
 
 Tarea 3 Guia Telefonica con guardado de contactos en JSON:
 
--Website: https://villxfxni.github.io/Guia_Telefonica_VILLAFANI/
+-Website: https://github.com/Jhair14/Guia-Telefonica
 
--Repositorio: https://github.com/Jhair14/Guia-Telefonica)
+-Repositorio: https://jhair14.github.io/Guia-Telefonica/
 
 Tarea 2 Aplicación de Cifrado y Descifrado para 2, 4, 16 y 32 bits + cifrado propio:
 
--Página Web: https://villxfxni.github.io/Cifrado_Decifrado_AnaVillafani/
+-Página Web: https://jhair14.github.io/Cifrado/
 
--Repositorio: https://github.com/villxfxni/Cifrado_Decifrado_AnaVillafani
+-Repositorio: https://github.com/Jhair14/Cifrado
 
 Tarea 3 Aplicación Web para Registro de Usuario con validación de Google:
 
--Página Web (host de firebase): https://modelosignup.web.app/
+-Página Web: https://jhair14.github.io/Login/
 
--Archivo: https://drive.google.com/file/d/1zAcRzv11PKJ59uCdOP0G_Ndtvn3VFuez/view?usp=sharing
+-Archivo: https://github.com/Jhair14/Login
 
-Tarea 4 (Grupal) MesiValle - Proyecto Emprendedor
+Tarea 4 (Grupal) Stokers - Proyecto Emprendedor
 
 -Página Web: https://villxfxni.github.io/mesivalle/
 
