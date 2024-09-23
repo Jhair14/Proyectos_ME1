@@ -44,6 +44,7 @@ Tarea 5 Encuesta Estudiantil - 48 preguntas
 
 Tarea 6 Pagina Web para un Negocio:
 
--Pagina Web: https://monceaufleurs-e8874.web.app/
+-Pagina Web: https://jhair14.github.io/Venta-de-cosas/
+-Repositorio: https://github.com/Jhair14/Venta-de-cosas
 
--TROIS: https://docs.google.com/document/d/1rN_sYr1ikE-ffDaiI0Cg_dtfzcLdtr9x2HTx1-y7JRk/edit?usp=sharing
+-TROIS: https://docs.google.com/document/d/1NlJbSICt8OPrJ9fv_IPtZKGKB-xmlBZ8/edit?usp=sharing&ouid=115758078959077215537&rtpof=true&sd=true
