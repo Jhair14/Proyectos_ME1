@@ -1,6 +1,6 @@
 # Proyectos_ME1
 
-Proyecto correspondientes al Momento Evaluativo #1 - Ana Gracia Villafani - Grupo A
+Proyecto correspondientes al Momento Evaluativo #1 - Jhair Anderson Aguilar Palacios - Grupo A
 
 Tarea 1 Ensayos de Websim.ai, Prompt y Devin AI:
 
@@ -14,7 +14,7 @@ Tarea 3 Guia Telefonica con guardado de contactos en JSON:
 
 -Website: https://villxfxni.github.io/Guia_Telefonica_VILLAFANI/
 
--Repositorio: https://github.com/villxfxni/Guia_Telefonica_VILLAFANI
+-Repositorio: https://github.com/Jhair14/Guia-Telefonica)
 
 Tarea 2 Aplicación de Cifrado y Descifrado para 2, 4, 16 y 32 bits + cifrado propio:
 
