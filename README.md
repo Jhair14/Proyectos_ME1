@@ -28,11 +28,11 @@ Tarea 3 Aplicación Web para Registro de Usuario con validación de Google:
 
 -Archivo: https://github.com/Jhair14/Login
 
-Tarea 4 (Grupal) Stokers - Proyecto Emprendedor
+Tarea 4 (Grupal) Stocker - Proyecto Emprendedor
 
--Página Web: https://villxfxni.github.io/mesivalle/
+Web https://ov20408.github.io/Stocker/
 
--Repositorio: https://github.com/villxfxni/mesivalle/
+Repositorio https://github.com/OV20408/Stocker
 
 Tarea 5 Encuesta Estudiantil - 48 preguntas
 
